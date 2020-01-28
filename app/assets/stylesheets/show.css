@@ -1,0 +1,21 @@
+body {
+	font-size: 13px;
+	font-family: verdana, arial, helvetica, sans-serif;
+}
+
+.sacces{
+	margin: 33px;
+}
+
+.check {
+	margin: 33px;
+}
+
+.message {
+	color: green;
+}
+
+.succesmessage{
+	margin: 33px;
+	color: green;
+}

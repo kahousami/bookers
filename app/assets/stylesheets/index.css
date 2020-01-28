@@ -1,0 +1,22 @@
+.indexpage{
+	margin: 30px;
+	font-family: verdana, arial, helvetica, sans-serif;
+}
+
+table{
+	font-size: 13px;
+}
+
+.new{
+	font-size: 13px;
+	margin-bottom: 10px;
+}
+
+.create{
+	margin-bottom: 10px;
+}
+
+.deletemessage{
+	margin: 33px;
+	color: green;
+}
